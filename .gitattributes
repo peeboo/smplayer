@@ -274,4 +274,4 @@ src/verticaltext.cpp -text
 src/verticaltext.h -text
 src/videoequalizer.cpp -text
 src/videoequalizer.h -text
-/test.txt -text svn_keywords=Date+Rev
+/svn_revision.txt -text svn_keywords=Revision
