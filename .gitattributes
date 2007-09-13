@@ -1,5 +1,5 @@
 * text=auto !eol
-/Changelog -text svn_keywords=Revision
+/Changelog -text
 /Configurable_shortcuts.txt -text
 /Copying.txt -text
 /FAQ.txt -text
@@ -237,6 +237,7 @@ src/smplayer.pro -text
 src/smplayer.rc -text
 src/subtracks.cpp -text
 src/subtracks.h -text
+src/svn_revision.h -text
 src/timeslider.cpp -text
 src/timeslider.h -text
 src/trackdata.cpp -text
@@ -269,7 +270,7 @@ src/translations/smplayer_zh_CN.ts -text
 src/translations/smplayer_zh_TW.ts -text
 src/translator.cpp -text
 src/translator.h -text
-src/version.cpp -text svn_keywords=Revision
+src/version.cpp -text
 src/version.h -text
 src/verticaltext.cpp -text
 src/verticaltext.h -text
