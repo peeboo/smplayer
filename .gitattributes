@@ -39,6 +39,8 @@ debian-rvm/smplayer-default.ex -text
 debian-rvm/smplayer.doc-base.EX -text
 debian-rvm/watch.ex -text
 /get_svn_revision.sh -text
+getrev/getrev.pro -text
+getrev/main.cpp -text
 icons/smplayer_icon16.png -text
 icons/smplayer_icon22.png -text
 icons/smplayer_icon32.png -text
@@ -237,6 +239,7 @@ src/smplayer.pro -text
 src/smplayer.rc -text
 src/subtracks.cpp -text
 src/subtracks.h -text
+src/svn_revision.h -text
 src/timeslider.cpp -text
 src/timeslider.h -text
 src/trackdata.cpp -text
