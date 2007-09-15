@@ -15,7 +15,7 @@
 /create_deb.sh -text
 debian-rvm/README -text
 debian-rvm/README.Debian -text
-debian-rvm/changelog -text
+debian-rvm/changelog-orig -text
 debian-rvm/compat -text
 debian-rvm/control -text
 debian-rvm/copyright -text
