@@ -204,6 +204,9 @@ src/playlistdock.h -text
 src/prefadvanced.cpp -text
 src/prefadvanced.h -text
 src/prefadvanced.ui -text
+src/prefassociations.cpp -text
+src/prefassociations.h -text
+src/prefassociations.ui -text
 src/prefdrives.cpp -text
 src/prefdrives.h -text
 src/prefdrives.ui -text
@@ -280,3 +283,5 @@ src/verticaltext.cpp -text
 src/verticaltext.h -text
 src/videoequalizer.cpp -text
 src/videoequalizer.h -text
+src/winfileassoc.cpp -text
+src/winfileassoc.h -text
