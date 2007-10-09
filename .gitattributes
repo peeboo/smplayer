@@ -123,6 +123,7 @@ src/icons-png/play.png -text
 src/icons-png/playlist.png -text
 src/icons-png/plus.png -text
 src/icons-png/pref_advanced.png -text
+src/icons-png/pref_associations.png -text
 src/icons-png/pref_devices.png -text
 src/icons-png/pref_general.png -text
 src/icons-png/pref_gui.png -text
