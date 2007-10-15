@@ -11,6 +11,7 @@
 /Readme.txt -text
 /Release_notes.txt -text
 /Translations.txt -text
+/clean_windows.bat -text
 /compile_windows.bat -text
 /create_deb.sh -text
 debian-rvm/README -text
