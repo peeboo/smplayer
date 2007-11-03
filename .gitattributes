@@ -257,6 +257,7 @@ src/translations/qt_fr.qm -text
 src/translations/smplayer_bg.ts -text
 src/translations/smplayer_cs.ts -text
 src/translations/smplayer_de.ts -text
+src/translations/smplayer_el_GR.ts -text
 src/translations/smplayer_en_US.ts -text
 src/translations/smplayer_es.ts -text
 src/translations/smplayer_fr.ts -text
