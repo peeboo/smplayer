@@ -79,6 +79,8 @@ src/filepropertiesdialog.h -text
 src/filepropertiesdialog.ui -text
 src/floatingcontrol.cpp -text
 src/floatingcontrol.h -text
+src/floatingwidget.cpp -text
+src/floatingwidget.h -text
 src/global.cpp -text
 src/global.h -text
 src/helper.cpp -text
