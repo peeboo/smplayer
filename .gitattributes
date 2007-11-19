@@ -251,6 +251,7 @@ src/shortcuts/default.keys -text
 src/smplayer.ico -text
 src/smplayer.pro -text
 src/smplayer.rc -text
+src/smplayer_associations.ico -text
 src/subtracks.cpp -text
 src/subtracks.h -text
 src/timeslider.cpp -text
