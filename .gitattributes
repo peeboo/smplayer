@@ -189,6 +189,8 @@ src/minigui.cpp -text
 src/minigui.h -text
 src/mplayerprocess.cpp -text
 src/mplayerprocess.h -text
+src/mplayerversion.cpp -text
+src/mplayerversion.h -text
 src/mplayerwindow.cpp -text
 src/mplayerwindow.h -text
 src/myaction.cpp -text
