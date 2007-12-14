@@ -263,6 +263,7 @@ src/trackdata.h -text
 src/tracks.cpp -text
 src/tracks.h -text
 src/translations/qt_fr.qm -text
+src/translations/qt_fr.ts -text
 src/translations/smplayer_bg.ts -text
 src/translations/smplayer_cs.ts -text
 src/translations/smplayer_de.ts -text
