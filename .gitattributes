@@ -185,7 +185,6 @@ src/mediadata.cpp -text
 src/mediadata.h -text
 src/mediasettings.cpp -text
 src/mediasettings.h -text
-src/mingw/libole32.a -text
 src/minigui.cpp -text
 src/minigui.h -text
 src/mplayerprocess.cpp -text
