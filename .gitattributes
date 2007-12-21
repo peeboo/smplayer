@@ -47,6 +47,7 @@ icons/smplayer_icon16.png -text
 icons/smplayer_icon22.png -text
 icons/smplayer_icon32.png -text
 icons/smplayer_icon64.png -text
+man/smplayer.1 -text
 setup/Readme.txt -text
 setup/smplayer.iss -text
 /smplayer.desktop -text
