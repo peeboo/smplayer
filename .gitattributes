@@ -52,6 +52,9 @@ setup/Readme.txt -text
 setup/smplayer.iss -text
 /smplayer.desktop -text
 /smplayer.spec -text
+src/about.cpp -text
+src/about.h -text
+src/about.ui -text
 src/aboutdialog.cpp -text
 src/aboutdialog.h -text
 src/actionseditor.cpp -text
