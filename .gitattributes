@@ -101,6 +101,7 @@ src/icons-png/close.png -text
 src/icons-png/compact.png -text
 src/icons-png/conflict.png -text
 src/icons-png/contrast.png -text
+src/icons-png/contributors.png -text
 src/icons-png/copy.png -text
 src/icons-png/delete.png -text
 src/icons-png/down.png -text
@@ -117,6 +118,7 @@ src/icons-png/hue.png -text
 src/icons-png/info.png -text
 src/icons-png/input_devices.png -text
 src/icons-png/keyboard.png -text
+src/icons-png/license.png -text
 src/icons-png/logo.png -text
 src/icons-png/logs.png -text
 src/icons-png/minus.png -text
@@ -154,6 +156,7 @@ src/icons-png/speed.png -text
 src/icons-png/stop.png -text
 src/icons-png/sub.png -text
 src/icons-png/title.png -text
+src/icons-png/translators.png -text
 src/icons-png/type_audio.png -text
 src/icons-png/type_cdda.png -text
 src/icons-png/type_dvd.png -text
