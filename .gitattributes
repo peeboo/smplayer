@@ -71,6 +71,8 @@ src/defaultgui.cpp -text
 src/defaultgui.h -text
 src/desktopinfo.cpp -text
 src/desktopinfo.h -text
+src/docs.qrc -text
+src/docs/Copying.txt -text
 src/encodings.cpp -text
 src/encodings.h -text
 src/eqslider.cpp -text
