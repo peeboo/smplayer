@@ -39,7 +39,9 @@ debian-rvm/rules -text
 debian-rvm/smplayer-default.ex -text
 debian-rvm/smplayer.doc-base.EX -text
 debian-rvm/watch.ex -text
+docs/de/GPL.html -text
 docs/en/GPL.txt -text
+docs/es/GPL.html -text
 /get_svn_revision.sh -text
 getrev/compile.bat -text
 getrev/getrev.pro -text
