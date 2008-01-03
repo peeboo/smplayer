@@ -2,7 +2,6 @@
 /Changelog -text
 /Configurable_shortcuts.txt -text
 /Copying.txt -text
-/FAQ.txt -text
 /Icon_themes.txt -text
 /Install.txt -text
 /Makefile -text
@@ -40,6 +39,7 @@ debian-rvm/smplayer-default.ex -text
 debian-rvm/smplayer.doc-base.EX -text
 debian-rvm/watch.ex -text
 docs/de/gpl.html -text
+docs/en/FAQ.txt -text
 docs/en/gpl.html -text
 docs/es/gpl.html -text
 /get_svn_revision.sh -text
