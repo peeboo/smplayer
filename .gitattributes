@@ -69,6 +69,8 @@ src/basegui.cpp -text
 src/basegui.h -text
 src/baseguiplus.cpp -text
 src/baseguiplus.h -text
+src/clhelp.cpp -text
+src/clhelp.h -text
 src/config.h -text
 src/constants.h -text
 src/core.cpp -text
