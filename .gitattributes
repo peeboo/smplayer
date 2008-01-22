@@ -106,6 +106,7 @@ src/icons-png/audio_channels.png -text
 src/icons-png/audio_filters.png -text
 src/icons-png/audio_track.png -text
 src/icons-png/background.png -text
+src/icons-png/bola.xcf -text
 src/icons-png/brightness.png -text
 src/icons-png/cdda.png -text
 src/icons-png/cdrom_drive.png -text
@@ -125,6 +126,7 @@ src/icons-png/dvd_hd.png -text
 src/icons-png/equalizer.png -text
 src/icons-png/exit.png -text
 src/icons-png/faq.png -text
+src/icons-png/flecha.xcf -text
 src/icons-png/forward10m.png -text
 src/icons-png/forward10s.png -text
 src/icons-png/forward1m.png -text
