@@ -1,15 +1,10 @@
 * text=auto !eol
 /Changelog -text
-/Configurable_shortcuts.txt -text
 /Copying.txt -text
-/Icon_themes.txt -text
 /Install.txt -text
 /Makefile -text
 /Not_so_obvious_things.txt -text
-/Porting_log.txt -text
 /Readme.txt -text
-/Release_notes.txt -text
-/Translations.txt -text
 /clean_windows.bat -text
 /compile_windows.bat -text
 /create_deb.sh -text
@@ -55,6 +50,11 @@ icons/smplayer_icon22.png -text
 icons/smplayer_icon32.png -text
 icons/smplayer_icon64.png -text
 man/smplayer.1 -text
+old-txt/Configurable_shortcuts.txt -text
+old-txt/Icon_themes.txt -text
+old-txt/Porting_log.txt -text
+old-txt/Release_notes.txt -text
+old-txt/Translations.txt -text
 setup/Readme.txt -text
 setup/install_smplayer.bat -text
 setup/smplayer.iss -text
