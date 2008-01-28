@@ -211,6 +211,9 @@ src/input.conf -text
 src/inputdvddirectory.cpp -text
 src/inputdvddirectory.h -text
 src/inputdvddirectory.ui -text
+src/inputmplayerversion.cpp -text
+src/inputmplayerversion.h -text
+src/inputmplayerversion.ui -text
 src/inputurl.cpp -text
 src/inputurl.h -text
 src/inputurl.ui -text
