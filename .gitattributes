@@ -285,6 +285,8 @@ src/prefwidget.cpp -text
 src/prefwidget.h -text
 src/recents.cpp -text
 src/recents.h -text
+src/screensaver.cpp -text
+src/screensaver.h -text
 src/seekwidget.cpp -text
 src/seekwidget.h -text
 src/seekwidget.ui -text
