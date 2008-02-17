@@ -222,6 +222,7 @@ src/logwindow.cpp -text
 src/logwindow.h -text
 src/logwindowbase.ui -text
 src/main.cpp -text
+src/main2.cpp -text
 src/mediadata.cpp -text
 src/mediadata.h -text
 src/mediasettings.cpp -text
@@ -293,6 +294,8 @@ src/seekwidget.ui -text
 src/shortcutgetter.cpp -text
 src/shortcutgetter.h -text
 src/shortcuts/default.keys -text
+src/smplayer.cpp -text
+src/smplayer.h -text
 src/smplayer.ico -text
 src/smplayer.pro -text
 src/smplayer.rc -text
