@@ -59,6 +59,7 @@ old-txt/Translations.txt -text
 setup/Readme.txt -text
 setup/install_smplayer.bat -text
 setup/smplayer.iss -text
+setup/smplayer_codecs.iss -text
 setup/smplayer_lite.iss -text
 /smplayer.desktop -text
 /smplayer.spec -text
