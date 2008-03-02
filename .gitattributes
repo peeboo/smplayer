@@ -96,8 +96,6 @@ src/filedialog.h -text
 src/filepropertiesdialog.cpp -text
 src/filepropertiesdialog.h -text
 src/filepropertiesdialog.ui -text
-src/floatingcontrol.cpp -text
-src/floatingcontrol.h -text
 src/floatingwidget.cpp -text
 src/floatingwidget.h -text
 src/global.cpp -text
@@ -222,7 +220,6 @@ src/inputurl.ui -text
 src/logwindow.cpp -text
 src/logwindow.h -text
 src/logwindowbase.ui -text
-src/main.cpp -text
 src/main2.cpp -text
 src/mediadata.cpp -text
 src/mediadata.h -text
@@ -250,6 +247,9 @@ src/myserver.cpp -text
 src/myserver.h -text
 src/mytablewidget.cpp -text
 src/mytablewidget.h -text
+src/old-code/floatingcontrol.cpp -text
+src/old-code/floatingcontrol.h -text
+src/old-code/main.cpp -text
 src/playlist.cpp -text
 src/playlist.h -text
 src/playlistdock.cpp -text
