@@ -220,7 +220,7 @@ src/inputurl.ui -text
 src/logwindow.cpp -text
 src/logwindow.h -text
 src/logwindowbase.ui -text
-src/main2.cpp -text
+src/main.cpp -text
 src/mediadata.cpp -text
 src/mediadata.h -text
 src/mediasettings.cpp -text
