@@ -66,8 +66,6 @@ setup/smplayer_lite.iss -text
 src/about.cpp -text
 src/about.h -text
 src/about.ui -text
-src/aboutdialog.cpp -text
-src/aboutdialog.h -text
 src/actionseditor.cpp -text
 src/actionseditor.h -text
 src/basegui.cpp -text
@@ -247,6 +245,8 @@ src/myserver.cpp -text
 src/myserver.h -text
 src/mytablewidget.cpp -text
 src/mytablewidget.h -text
+src/old-code/aboutdialog.cpp -text
+src/old-code/aboutdialog.h -text
 src/old-code/floatingcontrol.cpp -text
 src/old-code/floatingcontrol.h -text
 src/old-code/main.cpp -text
