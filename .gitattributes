@@ -87,6 +87,9 @@ src/encodings.h -text
 src/eqslider.cpp -text
 src/eqslider.h -text
 src/eqslider.ui -text
+src/errordialog.cpp -text
+src/errordialog.h -text
+src/errordialog.ui -text
 src/extensions.cpp -text
 src/extensions.h -text
 src/filedialog.cpp -text
@@ -198,6 +201,7 @@ src/icons-png/vcd.png -text
 src/icons-png/video_filters.png -text
 src/icons-png/video_size.png -text
 src/icons-png/volume.png -text
+src/icons-png/warning.png -text
 src/icons.qrc -text
 src/images.cpp -text
 src/images.h -text
