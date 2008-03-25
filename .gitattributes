@@ -220,6 +220,7 @@ src/inputmplayerversion.ui -text
 src/inputurl.cpp -text
 src/inputurl.h -text
 src/inputurl.ui -text
+src/libconfig.h -text
 src/logwindow.cpp -text
 src/logwindow.h -text
 src/logwindowbase.ui -text
