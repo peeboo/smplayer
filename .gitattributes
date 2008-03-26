@@ -98,6 +98,8 @@ src/corelib/myprocess.cpp -text
 src/corelib/myprocess.h -text
 src/corelib/preferences.cpp -text
 src/corelib/preferences.h -text
+src/corelib/screensaver.cpp -text
+src/corelib/screensaver.h -text
 src/corelib/smplayercore.pro -text
 src/corelib/subtracks.cpp -text
 src/corelib/subtracks.h -text
@@ -299,8 +301,6 @@ src/prefwidget.cpp -text
 src/prefwidget.h -text
 src/recents.cpp -text
 src/recents.h -text
-src/screensaver.cpp -text
-src/screensaver.h -text
 src/seekwidget.cpp -text
 src/seekwidget.h -text
 src/seekwidget.ui -text
