@@ -315,6 +315,9 @@ src/smplayer.ico -text
 src/smplayer.pro -text
 src/smplayer.rc -text
 src/smplayer_associations.ico -text
+src/testcorelib/test.cpp -text
+src/testcorelib/test.h -text
+src/testcorelib/test.pro -text
 src/timedialog.cpp -text
 src/timedialog.h -text
 src/timedialog.ui -text
