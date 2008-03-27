@@ -101,6 +101,8 @@ src/corelib/preferences.h -text
 src/corelib/screensaver.cpp -text
 src/corelib/screensaver.h -text
 src/corelib/smplayercore.pro -text
+src/corelib/smplayercorelib.cpp -text
+src/corelib/smplayercorelib.h -text
 src/corelib/subtracks.cpp -text
 src/corelib/subtracks.h -text
 src/corelib/trackdata.cpp -text
