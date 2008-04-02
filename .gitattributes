@@ -128,6 +128,7 @@ src/filepropertiesdialog.h -text
 src/filepropertiesdialog.ui -text
 src/floatingwidget.cpp -text
 src/floatingwidget.h -text
+src/guiconfig.h -text
 src/icons-png/angle.png -text
 src/icons-png/aspect.png -text
 src/icons-png/audio_channels.png -text
