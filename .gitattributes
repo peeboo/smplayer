@@ -84,6 +84,8 @@ src/corelib/global.cpp -text
 src/corelib/global.h -text
 src/corelib/helper.cpp -text
 src/corelib/helper.h -text
+src/corelib/infoprovider.cpp -text
+src/corelib/infoprovider.h -text
 src/corelib/mediadata.cpp -text
 src/corelib/mediadata.h -text
 src/corelib/mediasettings.cpp -text
