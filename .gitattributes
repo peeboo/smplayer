@@ -322,6 +322,7 @@ src/smplayer_associations.ico -text
 src/testcorelib/test.cpp -text
 src/testcorelib/test.h -text
 src/testcorelib/test.pro -text
+src/testcorelib/test2.cpp -text
 src/testcorelib/timeslider.cpp -text
 src/testcorelib/timeslider.h -text
 src/timedialog.cpp -text
