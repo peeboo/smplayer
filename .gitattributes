@@ -276,6 +276,9 @@ src/playlist.cpp -text
 src/playlist.h -text
 src/playlistdock.cpp -text
 src/playlistdock.h -text
+src/playlistpreferences.cpp -text
+src/playlistpreferences.h -text
+src/playlistpreferences.ui -text
 src/prefadvanced.cpp -text
 src/prefadvanced.h -text
 src/prefadvanced.ui -text
