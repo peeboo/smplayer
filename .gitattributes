@@ -64,6 +64,13 @@ setup/smplayer_codecs.iss -text
 setup/smplayer_lite.iss -text
 /smplayer.desktop -text
 /smplayer.spec -text
+src/3rdparty/qxtfilelock.cpp -text
+src/3rdparty/qxtfilelock.h -text
+src/3rdparty/qxtfilelock_p.h -text
+src/3rdparty/qxtfilelock_unix.cpp -text
+src/3rdparty/qxtfilelock_win.cpp -text
+src/3rdparty/qxtglobal.h -text
+src/3rdparty/qxtpimpl.h -text
 src/about.cpp -text
 src/about.h -text
 src/about.ui -text
