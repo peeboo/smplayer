@@ -249,15 +249,6 @@ src/inputmplayerversion.ui -text
 src/inputurl.cpp -text
 src/inputurl.h -text
 src/inputurl.ui -text
-src/libqxt/LICENSE -text
-src/libqxt/cpl1.0.txt -text
-src/libqxt/qxtfilelock.cpp -text
-src/libqxt/qxtfilelock.h -text
-src/libqxt/qxtfilelock_p.h -text
-src/libqxt/qxtfilelock_unix.cpp -text
-src/libqxt/qxtfilelock_win.cpp -text
-src/libqxt/qxtglobal.h -text
-src/libqxt/qxtpimpl.h -text
 src/logwindow.cpp -text
 src/logwindow.h -text
 src/logwindowbase.ui -text
