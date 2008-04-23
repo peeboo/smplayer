@@ -8,6 +8,7 @@
 /Release_notes.txt -text
 /clean_windows.bat -text
 /compile_windows.bat -text
+/compile_windows_with_qxt.bat -text
 /create_deb.sh -text
 debian-rvm/README -text
 debian-rvm/README.Debian -text
