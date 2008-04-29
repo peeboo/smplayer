@@ -65,6 +65,7 @@ setup/smplayer_codecs.iss -text
 setup/smplayer_lite.iss -text
 /smplayer.desktop -text
 /smplayer.spec -text
+/smplayer_enqueue.desktop -text
 src/about.cpp -text
 src/about.h -text
 src/about.ui -text
