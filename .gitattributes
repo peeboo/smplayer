@@ -343,6 +343,7 @@ src/timeslider.h -text
 src/translations/qt_fr.qm -text
 src/translations/qt_fr.ts -text
 src/translations/smplayer_bg.ts -text
+src/translations/smplayer_ca.ts -text
 src/translations/smplayer_cs.ts -text
 src/translations/smplayer_de.ts -text
 src/translations/smplayer_el_GR.ts -text
