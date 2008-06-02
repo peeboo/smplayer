@@ -340,6 +340,8 @@ src/timedialog.h -text
 src/timedialog.ui -text
 src/timeslider.cpp -text
 src/timeslider.h -text
+src/toolbareditor.cpp -text
+src/toolbareditor.h -text
 src/translations/qt_fr.qm -text
 src/translations/qt_fr.ts -text
 src/translations/smplayer_bg.ts -text
