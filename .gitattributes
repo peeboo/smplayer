@@ -332,6 +332,15 @@ src/smplayer.ico -text
 src/smplayer.pro -text
 src/smplayer.rc -text
 src/smplayer_associations.ico -text
+src/subdownloader/main.cpp -text
+src/subdownloader/osparser.cpp -text
+src/subdownloader/osparser.h -text
+src/subdownloader/simplehttp.cpp -text
+src/subdownloader/simplehttp.h -text
+src/subdownloader/subdownloader.pro -text
+src/subdownloader/subdownloaderdialog.cpp -text
+src/subdownloader/subdownloaderdialog.h -text
+src/subdownloader/subdownloaderdialog.ui -text
 src/testcorelib/test.cpp -text
 src/testcorelib/test.h -text
 src/testcorelib/test.pro -text
