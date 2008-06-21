@@ -118,8 +118,6 @@ src/corelib/tracks.cpp -text
 src/corelib/tracks.h -text
 src/defaultgui.cpp -text
 src/defaultgui.h -text
-src/encodings.cpp -text
-src/encodings.h -text
 src/eqslider.cpp -text
 src/eqslider.h -text
 src/eqslider.ui -text
@@ -293,6 +291,8 @@ src/mytablewidget.cpp -text
 src/mytablewidget.h -text
 src/old-code/aboutdialog.cpp -text
 src/old-code/aboutdialog.h -text
+src/old-code/encodings.cpp -text
+src/old-code/encodings.h -text
 src/old-code/floatingcontrol.cpp -text
 src/old-code/floatingcontrol.h -text
 src/old-code/main.cpp -text
