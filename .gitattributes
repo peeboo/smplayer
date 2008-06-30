@@ -81,6 +81,7 @@ src/baseguiplus.cpp -text
 src/baseguiplus.h -text
 src/clhelp.cpp -text
 src/clhelp.h -text
+src/corelib/audioequalizerlist.h -text
 src/corelib/config.h -text
 src/corelib/constants.h -text
 src/corelib/core.cpp -text
