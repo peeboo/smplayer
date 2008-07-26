@@ -1,4 +1,5 @@
 * text=auto !eol
+/Audio_equalizer.txt -text
 /Changelog -text
 /Copying.txt -text
 /Install.txt -text
