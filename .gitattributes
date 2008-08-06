@@ -141,9 +141,9 @@ src/filepropertiesdialog.cpp -text
 src/filepropertiesdialog.h -text
 src/filepropertiesdialog.ui -text
 src/findsubtitles/findsubtitles.pro -text
-src/findsubtitles/findsubtitlesdialog.cpp -text
-src/findsubtitles/findsubtitlesdialog.h -text
 src/findsubtitles/findsubtitlesdialog.ui -text
+src/findsubtitles/findsubtitleswindow.cpp -text
+src/findsubtitles/findsubtitleswindow.h -text
 src/findsubtitles/findsubtitleswindow.ui -text
 src/findsubtitles/main.cpp -text
 src/findsubtitles/osparser.cpp -text
