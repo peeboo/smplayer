@@ -144,6 +144,7 @@ src/findsubtitles/findsubtitles.pro -text
 src/findsubtitles/findsubtitlesdialog.cpp -text
 src/findsubtitles/findsubtitlesdialog.h -text
 src/findsubtitles/findsubtitlesdialog.ui -text
+src/findsubtitles/findsubtitleswindow.ui -text
 src/findsubtitles/main.cpp -text
 src/findsubtitles/osparser.cpp -text
 src/findsubtitles/osparser.h -text
