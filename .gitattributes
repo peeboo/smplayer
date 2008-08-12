@@ -1,6 +1,7 @@
 * text=auto !eol
 /Audio_equalizer.txt -text
 /Changelog -text
+/Configuring_the_toolbars.txt -text
 /Copying.txt -text
 /Finding_subtitles.txt -text
 /Install.txt -text
