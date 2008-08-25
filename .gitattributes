@@ -367,6 +367,7 @@ src/toolbareditor.cpp -text
 src/toolbareditor.h -text
 src/translations/qt_fr.qm -text
 src/translations/qt_fr.ts -text
+src/translations/smplayer_ar_SY.ts -text
 src/translations/smplayer_bg.ts -text
 src/translations/smplayer_ca.ts -text
 src/translations/smplayer_cs.ts -text
