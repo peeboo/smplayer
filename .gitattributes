@@ -157,6 +157,7 @@ src/guiconfig.h -text
 src/icons-png/angle.png -text
 src/icons-png/aspect.png -text
 src/icons-png/audio_channels.png -text
+src/icons-png/audio_equalizer.png -text
 src/icons-png/audio_filters.png -text
 src/icons-png/audio_track.png -text
 src/icons-png/background.png -text
