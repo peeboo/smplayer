@@ -298,13 +298,6 @@ src/myslider.cpp -text
 src/myslider.h -text
 src/mytablewidget.cpp -text
 src/mytablewidget.h -text
-src/old-code/aboutdialog.cpp -text
-src/old-code/aboutdialog.h -text
-src/old-code/encodings.cpp -text
-src/old-code/encodings.h -text
-src/old-code/floatingcontrol.cpp -text
-src/old-code/floatingcontrol.h -text
-src/old-code/main.cpp -text
 src/playlist.cpp -text
 src/playlist.h -text
 src/playlistdock.cpp -text
