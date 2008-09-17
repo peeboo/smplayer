@@ -195,6 +195,7 @@ src/icons-png/openfolder.png -text
 src/icons-png/osd.png -text
 src/icons-png/pause.png -text
 src/icons-png/play.png -text
+src/icons-png/play_pause.png -text
 src/icons-png/playlist.png -text
 src/icons-png/plus.png -text
 src/icons-png/pref_advanced.png -text
