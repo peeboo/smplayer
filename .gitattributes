@@ -168,6 +168,7 @@ src/icons-png/exit.png -text
 src/icons-png/faq.png -text
 src/icons-png/find.png -text
 src/icons-png/flecha.xcf -text
+src/icons-png/flip.png -text
 src/icons-png/forward10m.png -text
 src/icons-png/forward10s.png -text
 src/icons-png/forward1m.png -text
@@ -183,6 +184,7 @@ src/icons-png/license.png -text
 src/icons-png/logo.png -text
 src/icons-png/logs.png -text
 src/icons-png/minus.png -text
+src/icons-png/mirror.png -text
 src/icons-png/monitor.png -text
 src/icons-png/mouse.png -text
 src/icons-png/mute.png -text
