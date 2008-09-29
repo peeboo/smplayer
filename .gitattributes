@@ -71,7 +71,11 @@ src/baseguiplus.cpp -text
 src/baseguiplus.h -text
 src/clhelp.cpp -text
 src/clhelp.h -text
+src/corelib/audiodata.cpp -text
+src/corelib/audiodata.h -text
 src/corelib/audioequalizerlist.h -text
+src/corelib/audiotracks.cpp -text
+src/corelib/audiotracks.h -text
 src/corelib/config.h -text
 src/corelib/constants.h -text
 src/corelib/core.cpp -text
@@ -109,10 +113,6 @@ src/corelib/titledata.cpp -text
 src/corelib/titledata.h -text
 src/corelib/titletracks.cpp -text
 src/corelib/titletracks.h -text
-src/corelib/trackdata.cpp -text
-src/corelib/trackdata.h -text
-src/corelib/tracks.cpp -text
-src/corelib/tracks.h -text
 src/defaultgui.cpp -text
 src/defaultgui.h -text
 src/eqslider.cpp -text
