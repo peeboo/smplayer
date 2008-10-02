@@ -109,8 +109,6 @@ src/corelib/smplayercorelib.cpp -text
 src/corelib/smplayercorelib.h -text
 src/corelib/subtracks.cpp -text
 src/corelib/subtracks.h -text
-src/corelib/titledata.cpp -text
-src/corelib/titledata.h -text
 src/corelib/titletracks.cpp -text
 src/corelib/titletracks.h -text
 src/defaultgui.cpp -text
