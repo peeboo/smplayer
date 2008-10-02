@@ -71,8 +71,6 @@ src/baseguiplus.cpp -text
 src/baseguiplus.h -text
 src/clhelp.cpp -text
 src/clhelp.h -text
-src/corelib/audiodata.cpp -text
-src/corelib/audiodata.h -text
 src/corelib/audioequalizerlist.h -text
 src/corelib/audiotracks.cpp -text
 src/corelib/audiotracks.h -text
