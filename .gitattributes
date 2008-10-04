@@ -111,6 +111,8 @@ src/corelib/titletracks.cpp -text
 src/corelib/titletracks.h -text
 src/defaultgui.cpp -text
 src/defaultgui.h -text
+src/deviceinfo.cpp -text
+src/deviceinfo.h -text
 src/eqslider.cpp -text
 src/eqslider.h -text
 src/eqslider.ui -text
