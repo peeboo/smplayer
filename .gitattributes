@@ -36,6 +36,7 @@ docs/nl/gpl.html -text
 docs/ro/gpl.html -text
 docs/ru/faq.html -text
 docs/ru/gpl.html -text
+dxlist/directx/README.txt -text
 dxlist/dxlist.pro -text
 dxlist/main.cpp -text
 /get_svn_revision.sh -text
