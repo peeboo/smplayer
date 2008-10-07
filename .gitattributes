@@ -133,6 +133,10 @@ src/filedialog.h -text
 src/filepropertiesdialog.cpp -text
 src/filepropertiesdialog.h -text
 src/filepropertiesdialog.ui -text
+src/findsubtitles/filedownloader/filedownloader.cpp -text
+src/findsubtitles/filedownloader/filedownloader.h -text
+src/findsubtitles/filedownloader/filedownloader.pro -text
+src/findsubtitles/filedownloader/main.cpp -text
 src/findsubtitles/findsubtitles.pro -text
 src/findsubtitles/findsubtitleswindow.cpp -text
 src/findsubtitles/findsubtitleswindow.h -text
