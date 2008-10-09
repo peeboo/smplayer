@@ -165,6 +165,9 @@ src/findsubtitles/quazip/zip.c -text
 src/findsubtitles/quazip/zip.h -text
 src/findsubtitles/simplehttp.cpp -text
 src/findsubtitles/simplehttp.h -text
+src/findsubtitles/subchooserdialog.cpp -text
+src/findsubtitles/subchooserdialog.h -text
+src/findsubtitles/subchooserdialog.ui -text
 src/floatingwidget.cpp -text
 src/floatingwidget.h -text
 src/guiconfig.h -text
