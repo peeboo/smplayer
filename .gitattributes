@@ -343,6 +343,9 @@ src/prefinterface.ui -text
 src/prefperformance.cpp -text
 src/prefperformance.h -text
 src/prefperformance.ui -text
+src/prefplaylist.cpp -text
+src/prefplaylist.h -text
+src/prefplaylist.ui -text
 src/prefsubtitles.cpp -text
 src/prefsubtitles.h -text
 src/prefsubtitles.ui -text
