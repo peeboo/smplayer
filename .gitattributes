@@ -356,6 +356,8 @@ src/screensaver.h -text
 src/seekwidget.cpp -text
 src/seekwidget.h -text
 src/seekwidget.ui -text
+src/selectcolorbutton.cpp -text
+src/selectcolorbutton.h -text
 src/shortcutgetter.cpp -text
 src/shortcutgetter.h -text
 src/shortcuts/default.keys -text
