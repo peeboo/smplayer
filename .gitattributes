@@ -59,6 +59,7 @@ setup/install_smplayer.bat -text
 setup/smplayer.iss -text
 setup/smplayer_codecs.iss -text
 setup/smplayer_lite.iss -text
+setup/smplayer_orig.ini -text
 /smplayer.desktop -text
 /smplayer.spec -text
 /smplayer_enqueue.desktop -text
