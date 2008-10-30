@@ -68,6 +68,8 @@ src/about.h -text
 src/about.ui -text
 src/actionseditor.cpp -text
 src/actionseditor.h -text
+src/assstyles.cpp -text
+src/assstyles.h -text
 src/audioequalizer.cpp -text
 src/audioequalizer.h -text
 src/audioequalizerlist.h -text
