@@ -313,6 +313,8 @@ src/myslider.cpp -text
 src/myslider.h -text
 src/mytablewidget.cpp -text
 src/mytablewidget.h -text
+src/paths.cpp -text
+src/paths.h -text
 src/playlist.cpp -text
 src/playlist.h -text
 src/playlistdock.cpp -text
