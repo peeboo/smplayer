@@ -110,6 +110,10 @@ src/filedialog.h -text
 src/filepropertiesdialog.cpp -text
 src/filepropertiesdialog.h -text
 src/filepropertiesdialog.ui -text
+src/filesettings.cpp -text
+src/filesettings.h -text
+src/filesettingsbase.cpp -text
+src/filesettingsbase.h -text
 src/findsubtitles/filedownloader/filedownloader.cpp -text
 src/findsubtitles/filedownloader/filedownloader.h -text
 src/findsubtitles/filedownloader/filedownloader.pro -text
