@@ -54,8 +54,6 @@ old-txt/Icon_themes.txt -text
 old-txt/Porting_log.txt -text
 old-txt/Release_notes.txt -text
 old-txt/Translations.txt -text
-patches/README.txt -text
-patches/update_debug_runtime.diff -text
 setup/Readme.txt -text
 setup/install_smplayer.bat -text
 setup/smplayer.iss -text
