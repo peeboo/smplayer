@@ -442,6 +442,10 @@ src/verticaltext.cpp -text
 src/verticaltext.h -text
 src/videoequalizer.cpp -text
 src/videoequalizer.h -text
+src/videopreview/main.cpp -text
+src/videopreview/videopreview.cpp -text
+src/videopreview/videopreview.h -text
+src/videopreview/videopreview.pro -text
 src/widgetactions.cpp -text
 src/widgetactions.h -text
 src/winfileassoc.cpp -text
