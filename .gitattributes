@@ -26,6 +26,8 @@ debian-rvm/dirs -text
 debian-rvm/docs -text
 debian-rvm/menu -text
 debian-rvm/rules -text
+docs/cs/faq.html -text
+docs/cs/gpl.html -text
 docs/de/gpl.html -text
 docs/en/faq.html -text
 docs/en/gpl.html -text
