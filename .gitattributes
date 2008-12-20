@@ -298,6 +298,13 @@ src/mediasettings.cpp -text
 src/mediasettings.h -text
 src/minigui.cpp -text
 src/minigui.h -text
+src/mpcgui/mpc_mono.png -text
+src/mpcgui/mpc_stereo.png -text
+src/mpcgui/mpc_toolbar.png -text
+src/mpcgui/mpcgui.cpp -text
+src/mpcgui/mpcgui.h -text
+src/mpcgui/mpcstyles.cpp -text
+src/mpcgui/mpcstyles.h -text
 src/mplayerprocess.cpp -text
 src/mplayerprocess.h -text
 src/mplayerversion.cpp -text
