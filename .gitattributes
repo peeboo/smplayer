@@ -122,6 +122,9 @@ src/findsubtitles/filedownloader/filedownloader.h -text
 src/findsubtitles/filedownloader/filedownloader.pro -text
 src/findsubtitles/filedownloader/main.cpp -text
 src/findsubtitles/findsubtitles.pro -text
+src/findsubtitles/findsubtitlesconfigdialog.cpp -text
+src/findsubtitles/findsubtitlesconfigdialog.h -text
+src/findsubtitles/findsubtitlesconfigdialog.ui -text
 src/findsubtitles/findsubtitleswindow.cpp -text
 src/findsubtitles/findsubtitleswindow.h -text
 src/findsubtitles/findsubtitleswindow.ui -text
