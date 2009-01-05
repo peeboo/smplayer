@@ -95,6 +95,8 @@ src/desktopinfo.cpp -text
 src/desktopinfo.h -text
 src/deviceinfo.cpp -text
 src/deviceinfo.h -text
+src/discname.cpp -text
+src/discname.h -text
 src/eqslider.cpp -text
 src/eqslider.h -text
 src/eqslider.ui -text
