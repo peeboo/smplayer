@@ -468,6 +468,7 @@ src/translations/smplayer_sr.ts -text
 src/translations/smplayer_sv.ts -text
 src/translations/smplayer_tr.ts -text
 src/translations/smplayer_uk_UA.ts -text
+src/translations/smplayer_vi_VN.ts -text
 src/translations/smplayer_zh_CN.ts -text
 src/translations/smplayer_zh_TW.ts -text
 src/translator.cpp -text
