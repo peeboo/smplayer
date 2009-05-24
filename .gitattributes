@@ -65,6 +65,8 @@ setup/smplayer_codecs.iss -text
 setup/smplayer_orig.ini -text
 setup/translations/basque.nsh -text
 setup/translations/catalan.nsh -text
+setup/translations/chinese-simp.nsh -text
+setup/translations/chinese-trad.nsh -text
 setup/translations/czech.nsh -text
 setup/translations/danish.nsh -text
 setup/translations/dutch.nsh -text
@@ -75,6 +77,7 @@ setup/translations/german.nsh -text
 setup/translations/hebrew.nsh -text
 setup/translations/hungarian.nsh -text
 setup/translations/italian.nsh -text
+setup/translations/japanese.nsh -text
 setup/translations/norwegian.nsh -text
 setup/translations/polish.nsh -text
 setup/translations/portuguese.nsh -text
