@@ -286,6 +286,7 @@ src/icons-png/translators.png -text
 src/icons-png/type_audio.png -text
 src/icons-png/type_cdda.png -text
 src/icons-png/type_dvd.png -text
+src/icons-png/type_tv.png -text
 src/icons-png/type_unknown.png -text
 src/icons-png/type_url.png -text
 src/icons-png/type_vcd.png -text
