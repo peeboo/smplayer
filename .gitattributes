@@ -129,6 +129,8 @@ src/errordialog.h -text
 src/errordialog.ui -text
 src/extensions.cpp -text
 src/extensions.h -text
+src/favorites.cpp -text
+src/favorites.h -text
 src/filechooser.cpp -text
 src/filechooser.h -text
 src/filechooser.ui -text
