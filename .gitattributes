@@ -484,6 +484,8 @@ src/translator.cpp -text
 src/translator.h -text
 src/tristatecombo.cpp -text
 src/tristatecombo.h -text
+src/tvlist.cpp -text
+src/tvlist.h -text
 src/urlhistory.cpp -text
 src/urlhistory.h -text
 src/version.cpp -text
