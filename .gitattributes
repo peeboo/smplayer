@@ -413,6 +413,9 @@ src/prefplaylist.ui -text
 src/prefsubtitles.cpp -text
 src/prefsubtitles.h -text
 src/prefsubtitles.ui -text
+src/preftv.cpp -text
+src/preftv.h -text
+src/preftv.ui -text
 src/prefwidget.cpp -text
 src/prefwidget.h -text
 src/recents.cpp -text
