@@ -79,7 +79,7 @@ setup/translations/dutch.nsh -text svneol=unset#unset
 setup/translations/english.nsh -text svneol=unset#unset
 setup/translations/finnish.nsh -text svneol=unset#unset
 setup/translations/french.nsh -text svneol=unset#unset
-setup/translations/german.nsh -text svneol=unset#unset
+setup/translations/german.nsh -text
 setup/translations/hebrew.nsh -text svneol=unset#unset
 setup/translations/hungarian.nsh -text svneol=unset#unset
 setup/translations/italian.nsh -text svneol=unset#unset
