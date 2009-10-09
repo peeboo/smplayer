@@ -63,8 +63,6 @@ old-txt/Porting_log.txt -text
 old-txt/Release_notes.txt -text
 old-txt/Translations.txt -text
 setup/Readme.txt -text
-setup/inetc.dll -text
-setup/inetc.dll.txt -text
 setup/install_smplayer.bat -text
 setup/mplayer.codecs.win32.nsi -text
 setup/smplayer-installer.nsi -text
