@@ -274,6 +274,7 @@ src/icons-png/pref_subtitles.png -text
 src/icons-png/prefs.png -text
 src/icons-png/previous.png -text
 src/icons-png/qt.png -text
+src/icons-png/refresh.png -text
 src/icons-png/repeat.png -text
 src/icons-png/resize_window.png -text
 src/icons-png/rewind10m.png -text
