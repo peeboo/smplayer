@@ -198,12 +198,14 @@ src/global.h -text
 src/guiconfig.h -text
 src/helper.cpp -text
 src/helper.h -text
+src/icons-png/a_marker.png -text
 src/icons-png/angle.png -text
 src/icons-png/aspect.png -text
 src/icons-png/audio_channels.png -text
 src/icons-png/audio_equalizer.png -text
 src/icons-png/audio_filters.png -text
 src/icons-png/audio_track.png -text
+src/icons-png/b_marker.png -text
 src/icons-png/background.png -text
 src/icons-png/bola.xcf -text
 src/icons-png/brightness.png -text
