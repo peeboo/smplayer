@@ -66,8 +66,6 @@ setup/Readme.txt -text
 setup/install_smplayer.bat -text
 setup/mplayer.codecs.win32.nsi -text
 setup/smplayer-installer.nsi -text
-setup/smplayer.iss -text
-setup/smplayer_codecs.iss -text
 setup/smplayer_orig.ini -text
 setup/translations/basque.nsh -text
 setup/translations/catalan.nsh -text
