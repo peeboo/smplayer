@@ -63,7 +63,10 @@ old-txt/Porting_log.txt -text
 old-txt/Release_notes.txt -text
 old-txt/Translations.txt -text
 setup/Readme.txt -text
+setup/create_portablepkg.cmd -text
+setup/create_smplayer_wo_mplayerpkg.cmd -text
 setup/install_smplayer.bat -text
+setup/install_smplayer.cmd -text
 setup/mplayer.codecs.win32.nsi -text
 setup/smplayer-installer.nsi -text
 setup/smplayer_orig.ini -text
