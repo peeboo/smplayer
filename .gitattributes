@@ -69,6 +69,10 @@ setup/install_smplayer.bat -text
 setup/install_smplayer.cmd -text
 setup/mplayer.codecs.win32.nsi -text
 setup/smplayer-installer.nsi -text
+setup/smplayer-orange-installer.ico -text
+setup/smplayer-orange-uninstaller.ico -text
+setup/smplayer-wizard-uninstall.bmp -text
+setup/smplayer-wizard.bmp -text
 setup/smplayer_orig.ini -text
 setup/translations/basque.nsh -text
 setup/translations/catalan.nsh -text
