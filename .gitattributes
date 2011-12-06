@@ -517,6 +517,9 @@ src/tvsettings.cpp -text
 src/tvsettings.h -text
 src/urlhistory.cpp -text
 src/urlhistory.h -text
+src/vdpauproperties.cpp -text
+src/vdpauproperties.h -text
+src/vdpauproperties.ui -text
 src/version.cpp -text
 src/version.h -text
 src/verticaltext.cpp -text
