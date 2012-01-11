@@ -541,3 +541,5 @@ src/widgetactions.cpp -text
 src/widgetactions.h -text
 src/winfileassoc.cpp -text
 src/winfileassoc.h -text
+src/youtube/retrieveyoutubeurl.cpp -text
+src/youtube/retrieveyoutubeurl.h -text
