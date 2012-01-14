@@ -80,6 +80,7 @@ setup/smplayer.win32.nsi -text
 setup/smplayer_orig.ini -text
 setup/translations/basque.nsh -text
 setup/translations/catalan.nsh -text
+setup/translations/croatian.nsh -text
 setup/translations/czech.nsh -text
 setup/translations/danish.nsh -text
 setup/translations/dutch.nsh -text
