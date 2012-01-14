@@ -222,6 +222,8 @@ src/icons-png/audio_track.png -text
 src/icons-png/b_marker.png -text
 src/icons-png/background.png -text
 src/icons-png/bola.xcf -text
+src/icons-png/bookmark_add.png -text
+src/icons-png/bookmark_folder.png -text
 src/icons-png/brightness.png -text
 src/icons-png/cdda.png -text
 src/icons-png/cdrom_drive.png -text
@@ -314,6 +316,7 @@ src/icons-png/tips.png -text
 src/icons-png/title.png -text
 src/icons-png/toolbars.png -text
 src/icons-png/translators.png -text
+src/icons-png/trash.png -text
 src/icons-png/type_audio.png -text
 src/icons-png/type_cdda.png -text
 src/icons-png/type_dvd.png -text
