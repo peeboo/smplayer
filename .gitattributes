@@ -150,7 +150,6 @@ src/favorites.cpp -text
 src/favorites.h -text
 src/filechooser.cpp -text
 src/filechooser.h -text
-src/filechooser.ui -text
 src/filedialog.cpp -text
 src/filedialog.h -text
 src/filepropertiesdialog.cpp -text
