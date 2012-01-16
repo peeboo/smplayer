@@ -356,6 +356,8 @@ src/languages.h -text
 src/languages/list.txt -text
 src/languages/main.cpp -text
 src/languages/process_list.pro -text
+src/lineedit_with_icon.cpp -text
+src/lineedit_with_icon.h -text
 src/logwindow.cpp -text
 src/logwindow.h -text
 src/logwindowbase.ui -text
