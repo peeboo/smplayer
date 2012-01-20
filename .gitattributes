@@ -3,6 +3,7 @@
 /Changelog -text
 /Configuring_the_toolbars.txt -text
 /Copying.txt -text
+/Copying_BSD.txt -text
 /Finding_subtitles.txt -text
 /Install.txt -text
 /Makefile -text
@@ -443,6 +444,12 @@ src/preftv.h -text
 src/preftv.ui -text
 src/prefwidget.cpp -text
 src/prefwidget.h -text
+src/qtlockedfile/QtLockedFile -text
+src/qtlockedfile/qtlockedfile.cpp -text
+src/qtlockedfile/qtlockedfile.h -text
+src/qtlockedfile/qtlockedfile.pri -text
+src/qtlockedfile/qtlockedfile_unix.cpp -text
+src/qtlockedfile/qtlockedfile_win.cpp -text
 src/recents.cpp -text
 src/recents.h -text
 src/screensaver.cpp -text
