@@ -16,7 +16,6 @@
 /clean_windows.bat -text
 /compile_windows.bat -text
 /compile_windows_portable.bat -text
-/compile_windows_with_qtlf.bat -text
 /create_deb.sh -text
 /create_rpm.sh -text
 debian-rvm/README -text
