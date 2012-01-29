@@ -224,6 +224,7 @@ src/icons-png/brightness.png -text
 src/icons-png/cdda.png -text
 src/icons-png/cdrom_drive.png -text
 src/icons-png/chapter.png -text
+src/icons-png/check_updates.png -text
 src/icons-png/cl_help.png -text
 src/icons-png/clear_left.png -text
 src/icons-png/close.png -text
@@ -272,6 +273,7 @@ src/icons-png/next_aspect.png -text
 src/icons-png/ok.png -text
 src/icons-png/ontop.png -text
 src/icons-png/open.png -text
+src/icons-png/open_disc.png -text
 src/icons-png/open_favorites.png -text
 src/icons-png/open_playlist.png -text
 src/icons-png/open_radio.png -text
@@ -310,7 +312,6 @@ src/icons-png/speed.png -text
 src/icons-png/stereo_mode.png -text
 src/icons-png/stop.png -text
 src/icons-png/sub.png -text
-src/icons-png/tips.png -text
 src/icons-png/title.png -text
 src/icons-png/toolbars.png -text
 src/icons-png/translators.png -text
