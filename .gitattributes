@@ -119,9 +119,6 @@ src/config.h -text
 src/constants.h -text
 src/core.cpp -text
 src/core.h -text
-src/corelib/smplayercore.pro -text
-src/corelib/smplayercorelib.cpp -text
-src/corelib/smplayercorelib.h -text
 src/defaultgui.cpp -text
 src/defaultgui.h -text
 src/desktopinfo.cpp -text
@@ -467,10 +464,6 @@ src/smplayer_associations.ico -text
 src/smplayer_os2.rc -text
 src/subtracks.cpp -text
 src/subtracks.h -text
-src/testcorelib/test.cpp -text
-src/testcorelib/test.h -text
-src/testcorelib/test.pro -text
-src/testcorelib/test2.cpp -text
 src/timedialog.cpp -text
 src/timedialog.h -text
 src/timedialog.ui -text
