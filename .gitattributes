@@ -62,11 +62,6 @@ icons/smplayer_icon64.png -text
 /liesmich.os2 -text
 /lisezmoi.os2 -text
 man/smplayer.1 -text
-old-txt/Configurable_shortcuts.txt -text
-old-txt/Icon_themes.txt -text
-old-txt/Porting_log.txt -text
-old-txt/Release_notes.txt -text
-old-txt/Translations.txt -text
 /readme.os2 -text
 setup/scripts/install_smplayer.cmd -text
 setup/scripts/make_pkgs.cmd -text
