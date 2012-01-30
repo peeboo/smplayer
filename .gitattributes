@@ -59,10 +59,10 @@ icons/smplayer_icon16.png -text
 icons/smplayer_icon22.png -text
 icons/smplayer_icon32.png -text
 icons/smplayer_icon64.png -text
-/liesmich.os2 -text
-/lisezmoi.os2 -text
 man/smplayer.1 -text
-/readme.os2 -text
+os2/liesmich.os2 -text
+os2/lisezmoi.os2 -text
+os2/readme.os2 -text
 setup/scripts/install_smplayer.cmd -text
 setup/scripts/make_pkgs.cmd -text
 setup/smplayer-orange-installer.ico -text
