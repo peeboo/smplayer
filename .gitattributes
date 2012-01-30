@@ -454,7 +454,6 @@ src/selectcolorbutton.h -text
 src/shortcutgetter.cpp -text
 src/shortcutgetter.h -text
 src/shortcuts/default.keys -text
-src/shortcuts/sda.keys -text
 src/smplayer.cpp -text
 src/smplayer.h -text
 src/smplayer.ico -text
