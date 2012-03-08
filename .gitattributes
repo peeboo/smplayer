@@ -382,6 +382,8 @@ src/myaction.cpp -text
 src/myaction.h -text
 src/myactiongroup.cpp -text
 src/myactiongroup.h -text
+src/myapplication.cpp -text
+src/myapplication.h -text
 src/mycombobox.cpp -text
 src/mycombobox.h -text
 src/mylineedit.cpp -text
