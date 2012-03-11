@@ -129,6 +129,8 @@ src/deviceinfo.cpp -text
 src/deviceinfo.h -text
 src/discname.cpp -text
 src/discname.h -text
+src/editabletoolbar.cpp -text
+src/editabletoolbar.h -text
 src/eqslider.cpp -text
 src/eqslider.h -text
 src/eqslider.ui -text
