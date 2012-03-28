@@ -114,6 +114,8 @@ src/basegui.cpp -text
 src/basegui.h -text
 src/baseguiplus.cpp -text
 src/baseguiplus.h -text
+src/chapters.cpp -text
+src/chapters.h -text
 src/clhelp.cpp -text
 src/clhelp.h -text
 src/colorutils.cpp -text
