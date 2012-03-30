@@ -52,6 +52,7 @@ dxlist/directx/README.txt -text
 dxlist/dxlist.pro -text
 dxlist/main.cpp -text
 /get_svn_revision.sh -text
+/getrev.cmd -text
 icons/smplayer_icon16.png -text
 icons/smplayer_icon22.png -text
 icons/smplayer_icon32.png -text
