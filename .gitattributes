@@ -176,6 +176,8 @@ src/findsubtitles/findsubtitlesconfigdialog.ui -text
 src/findsubtitles/findsubtitleswindow.cpp -text
 src/findsubtitles/findsubtitleswindow.h -text
 src/findsubtitles/findsubtitleswindow.ui -text
+src/findsubtitles/fixsubs.cpp -text
+src/findsubtitles/fixsubs.h -text
 src/findsubtitles/main.cpp -text
 src/findsubtitles/osparser.cpp -text
 src/findsubtitles/osparser.h -text
