@@ -70,7 +70,7 @@ setup/smplayer-orange-installer.ico -text
 setup/smplayer-orange-uninstaller.ico -text
 setup/smplayer-orange-wizard-un.bmp -text
 setup/smplayer-orange-wizard.bmp -text
-setup/smplayer.win32.nsi -text
+setup/smplayer.nsi -text
 setup/translations/basque.nsh -text
 setup/translations/catalan.nsh -text
 setup/translations/croatian.nsh -text
