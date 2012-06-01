@@ -756,6 +756,7 @@ zlib/msdos/Makefile.msc -text
 zlib/msdos/Makefile.tc -text
 zlib/nintendods/Makefile -text
 zlib/nintendods/README -text
+zlib/old/Makefile.emx -text
 zlib/old/Makefile.riscos -text
 zlib/old/README -text
 zlib/old/descrip.mms -text
@@ -774,7 +775,6 @@ zlib/watcom/watcom_f.mak -text
 zlib/watcom/watcom_l.mak -text
 zlib/win32/DLL_FAQ.txt -text
 zlib/win32/Makefile.bor -text
-zlib/win32/Makefile.emx -text
 zlib/win32/Makefile.gcc -text
 zlib/win32/Makefile.msc -text
 zlib/win32/README-WIN32.txt -text
@@ -788,6 +788,7 @@ zlib/zlib.3 -text
 zlib/zlib.3.pdf -text
 zlib/zlib.h -text
 zlib/zlib.map -text
+zlib/zlib.pc.cmakein -text
 zlib/zlib.pc.in -text
 zlib/zlib2ansi -text
 zlib/zutil.c -text
