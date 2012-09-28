@@ -54,9 +54,14 @@ dxlist/dxlist.pro -text
 dxlist/main.cpp -text
 /get_svn_revision.sh -text
 /getrev.cmd -text
+icons/smplayer.svg -text
+icons/smplayer_icon128.png -text
 icons/smplayer_icon16.png -text
+icons/smplayer_icon192.png -text
 icons/smplayer_icon22.png -text
+icons/smplayer_icon256.png -text
 icons/smplayer_icon32.png -text
+icons/smplayer_icon512.png -text
 icons/smplayer_icon64.png -text
 man/smplayer.1 -text
 os2/liesmich.os2 -text
