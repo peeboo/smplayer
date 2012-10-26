@@ -70,6 +70,7 @@ os2/readme.os2 -text
 os2/smplayer.ico -text
 os2/smplayer_closed.ICO -text
 os2/smplayer_open.ICO -text
+setup/contrib/smplayer.full.nsi -text
 setup/scripts/install_smplayer.cmd -text
 setup/scripts/make_pkgs.cmd -text
 setup/smplayer-orange-installer.ico -text
