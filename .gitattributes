@@ -71,6 +71,7 @@ os2/smplayer.ico -text
 os2/smplayer_closed.ICO -text
 os2/smplayer_open.ICO -text
 setup/contrib/smplayer.full.nsi -text
+setup/sample.avi -text
 setup/scripts/install_smplayer.cmd -text
 setup/scripts/make_pkgs.cmd -text
 setup/smplayer-orange-installer.ico -text
@@ -209,6 +210,8 @@ src/findsubtitles/subchooserdialog.h -text
 src/findsubtitles/subchooserdialog.ui -text
 src/floatingwidget.cpp -text
 src/floatingwidget.h -text
+src/fontcache.cpp -text
+src/fontcache.h -text
 src/global.cpp -text
 src/global.h -text
 src/guiconfig.h -text
