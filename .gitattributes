@@ -71,6 +71,7 @@ os2/smplayer.ico -text
 os2/smplayer_closed.ICO -text
 os2/smplayer_open.ICO -text
 setup/contrib/smplayer.full.nsi -text
+setup/license.txt -text
 setup/sample.avi -text
 setup/scripts/install_smplayer.cmd -text
 setup/scripts/make_pkgs.cmd -text
