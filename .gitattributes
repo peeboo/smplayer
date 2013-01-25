@@ -580,6 +580,9 @@ src/verticaltext.cpp -text
 src/verticaltext.h -text
 src/videoequalizer.cpp -text
 src/videoequalizer.h -text
+src/videoequalizer2.cpp -text
+src/videoequalizer2.h -text
+src/videoequalizer2.ui -text
 src/videopreview/async.diff -text
 src/videopreview/main.cpp -text
 src/videopreview/videopreview.cpp -text
