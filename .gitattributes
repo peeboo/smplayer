@@ -102,6 +102,7 @@ setup/translations/simpchinese.nsh -text
 setup/translations/slovak.nsh -text
 setup/translations/slovenian.nsh -text
 setup/translations/spanish.nsh -text
+setup/translations/thai.nsh -text
 setup/translations/tradchinese.nsh -text
 /smplayer.desktop -text
 /smplayer.spec -text
