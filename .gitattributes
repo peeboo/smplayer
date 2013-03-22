@@ -70,6 +70,8 @@ os2/readme.os2 -text
 os2/smplayer.ico -text
 os2/smplayer_closed.ICO -text
 os2/smplayer_open.ICO -text
+qt-translations/qt_eu.qm -text
+qt-translations/qt_eu.ts -text
 setup/license.txt -text
 setup/sample.avi -text
 setup/scripts/install_smplayer.cmd -text
