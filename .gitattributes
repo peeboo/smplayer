@@ -202,6 +202,8 @@ src/findsubtitles/maia/maiaXmlRpcServer.h -text
 src/findsubtitles/maia/maiaXmlRpcServerConnection.cpp -text
 src/findsubtitles/maia/maiaXmlRpcServerConnection.h -text
 src/findsubtitles/main.cpp -text
+src/findsubtitles/osclient.cpp -text
+src/findsubtitles/osclient.h -text
 src/findsubtitles/osparser.cpp -text
 src/findsubtitles/osparser.h -text
 src/findsubtitles/quazip/COPYING -text
