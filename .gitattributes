@@ -416,6 +416,9 @@ src/mplayerversion.cpp -text
 src/mplayerversion.h -text
 src/mplayerwindow.cpp -text
 src/mplayerwindow.h -text
+src/multilineinputdialog.cpp -text
+src/multilineinputdialog.h -text
+src/multilineinputdialog.ui -text
 src/myaction.cpp -text
 src/myaction.h -text
 src/myactiongroup.cpp -text
