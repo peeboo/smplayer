@@ -452,6 +452,9 @@ src/prefsubtitles.ui -text
 src/preftv.cpp -text
 src/preftv.h -text
 src/preftv.ui -text
+src/prefupdates.cpp -text
+src/prefupdates.h -text
+src/prefupdates.ui -text
 src/prefwidget.cpp -text
 src/prefwidget.h -text
 src/qtsingleapplication/QtLockedFile -text
