@@ -298,6 +298,7 @@ src/icons-png/pref_general.png -text
 src/icons-png/pref_gui.png -text
 src/icons-png/pref_performance.png -text
 src/icons-png/pref_subtitles.png -text
+src/icons-png/pref_updates.png -text
 src/icons-png/prefs.png -text
 src/icons-png/previous.png -text
 src/icons-png/qt.png -text
