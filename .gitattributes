@@ -69,6 +69,7 @@ setup/license.txt -text
 setup/sample.avi -text
 setup/scripts/install_smplayer.cmd -text
 setup/scripts/make_pkgs.cmd -text
+setup/scripts/make_pkgs64.cmd -text
 setup/smplayer-orange-installer.ico -text
 setup/smplayer-orange-uninstaller.ico -text
 setup/smplayer-orange-wizard-un.bmp -text
