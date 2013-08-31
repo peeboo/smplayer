@@ -169,6 +169,8 @@ src/filesettingshash.cpp -text
 src/filesettingshash.h -text
 src/filters.cpp -text
 src/filters.h -text
+src/findsubtitles/filedownloader/filedownloader.cpp -text
+src/findsubtitles/filedownloader/filedownloader.h -text
 src/findsubtitles/filedownloader/filedownloader.pro -text
 src/findsubtitles/filedownloader/main.cpp -text
 src/findsubtitles/findsubtitles.pro -text
