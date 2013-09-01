@@ -478,6 +478,9 @@ src/qtsingleapplication/qtsinglecoreapplication.h -text
 src/qtsingleapplication/qtsinglecoreapplication.pri -text
 src/recents.cpp -text
 src/recents.h -text
+src/reminderdialog.cpp -text
+src/reminderdialog.h -text
+src/reminderdialog.ui -text
 src/screensaver.cpp -text
 src/screensaver.h -text
 src/seekwidget.cpp -text
