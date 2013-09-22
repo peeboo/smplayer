@@ -491,6 +491,7 @@ src/selectcolorbutton.h -text
 src/shortcutgetter.cpp -text
 src/shortcutgetter.h -text
 src/shortcuts/default.keys -text
+src/shortcuts/euskara.keys -text
 src/skingui/actiontools.cpp -text
 src/skingui/actiontools.h -text
 src/skingui/mediabarpanel.cpp -text
