@@ -536,6 +536,7 @@ src/toolbareditor.ui -text
 src/tracks.cpp -text
 src/tracks.h -text
 src/translations/.tx/config -text
+src/translations/smplayer_ar.ts -text
 src/translations/smplayer_ar_SY.ts -text
 src/translations/smplayer_bg.ts -text
 src/translations/smplayer_ca.ts -text
@@ -553,6 +554,7 @@ src/translations/smplayer_gl.ts -text
 src/translations/smplayer_he_IL.ts -text
 src/translations/smplayer_hr.ts -text
 src/translations/smplayer_hu.ts -text
+src/translations/smplayer_id.ts -text
 src/translations/smplayer_it.ts -text
 src/translations/smplayer_ja.ts -text
 src/translations/smplayer_ka.ts -text
@@ -562,6 +564,7 @@ src/translations/smplayer_lt.ts -text
 src/translations/smplayer_mk.ts -text
 src/translations/smplayer_ms_MY.ts -text
 src/translations/smplayer_nl.ts -text
+src/translations/smplayer_nn_NO.ts -text
 src/translations/smplayer_pl.ts -text
 src/translations/smplayer_pt.ts -text
 src/translations/smplayer_pt_BR.ts -text
@@ -574,6 +577,7 @@ src/translations/smplayer_sv.ts -text
 src/translations/smplayer_th.ts -text
 src/translations/smplayer_tr.ts -text
 src/translations/smplayer_uk_UA.ts -text
+src/translations/smplayer_uz.ts -text
 src/translations/smplayer_vi_VN.ts -text
 src/translations/smplayer_zh_CN.ts -text
 src/translations/smplayer_zh_TW.ts -text
