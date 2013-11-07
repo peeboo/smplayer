@@ -113,6 +113,8 @@ src/assstyles.h -text
 src/audioequalizer.cpp -text
 src/audioequalizer.h -text
 src/audioequalizerlist.h -text
+src/autohidewidget.cpp -text
+src/autohidewidget.h -text
 src/basegui.cpp -text
 src/basegui.h -text
 src/baseguiplus.cpp -text
@@ -207,8 +209,6 @@ src/findsubtitles/subchooserdialog.h -text
 src/findsubtitles/subchooserdialog.ui -text
 src/floatingwidget.cpp -text
 src/floatingwidget.h -text
-src/floatingwidget2.cpp -text
-src/floatingwidget2.h -text
 src/fontcache.cpp -text
 src/fontcache.h -text
 src/global.cpp -text
