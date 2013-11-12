@@ -207,8 +207,6 @@ src/findsubtitles/osparser.h -text
 src/findsubtitles/subchooserdialog.cpp -text
 src/findsubtitles/subchooserdialog.h -text
 src/findsubtitles/subchooserdialog.ui -text
-src/floatingwidget.cpp -text
-src/floatingwidget.h -text
 src/fontcache.cpp -text
 src/fontcache.h -text
 src/global.cpp -text
@@ -419,6 +417,10 @@ src/myslider.cpp -text
 src/myslider.h -text
 src/mytablewidget.cpp -text
 src/mytablewidget.h -text
+src/old/floatingwidget.cpp -text
+src/old/floatingwidget.h -text
+src/old/videoequalizer.cpp -text
+src/old/videoequalizer.h -text
 src/paths.cpp -text
 src/paths.h -text
 src/playlist.cpp -text
@@ -603,8 +605,6 @@ src/version.cpp -text
 src/version.h -text
 src/verticaltext.cpp -text
 src/verticaltext.h -text
-src/videoequalizer.cpp -text
-src/videoequalizer.h -text
 src/videoequalizer2.cpp -text
 src/videoequalizer2.h -text
 src/videoequalizer2.ui -text
