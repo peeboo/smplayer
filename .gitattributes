@@ -65,6 +65,8 @@ os2/smplayer_closed.ICO -text
 os2/smplayer_open.ICO -text
 qt-translations/qt_eu.qm -text
 qt-translations/qt_eu.ts -text
+qt-translations/qt_ja.qm -text
+qt-translations/qt_ja.ts -text
 setup/license.txt -text
 setup/sample.avi -text
 setup/scripts/install_smplayer.cmd -text
