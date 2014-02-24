@@ -112,7 +112,7 @@ setup/translations/po_files/korean.po -text
 setup/translations/po_files/norwegian.po -text
 setup/translations/po_files/polish.po -text
 setup/translations/po_files/portuguese.po -text
-setup/translations/po_files/portuguesebrasil.po -text
+setup/translations/po_files/portuguesebrazil.po -text
 setup/translations/po_files/russian.po -text
 setup/translations/po_files/simpchinese.po -text
 setup/translations/po_files/slovak.po -text
@@ -122,6 +122,7 @@ setup/translations/po_files/thai.po -text
 setup/translations/po_files/tradchinese.po -text
 setup/translations/polish.nsh -text
 setup/translations/portuguese.nsh -text
+setup/translations/portuguesebrazil.nsh -text
 setup/translations/russian.nsh -text
 setup/translations/simpchinese.nsh -text
 setup/translations/slovak.nsh -text
