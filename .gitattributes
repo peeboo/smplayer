@@ -320,6 +320,7 @@ src/icons-png/open_tv.png -text
 src/icons-png/openfolder.png -text
 src/icons-png/osd.png -text
 src/icons-png/pause.png -text
+src/icons-png/paypal.png -text
 src/icons-png/play.png -text
 src/icons-png/play_pause.png -text
 src/icons-png/playlist.png -text
@@ -349,6 +350,8 @@ src/icons-png/screenshots.png -text
 src/icons-png/share.png -text
 src/icons-png/show_config.png -text
 src/icons-png/shuffle.png -text
+src/icons-png/social_facebook.png -text
+src/icons-png/social_twitter.png -text
 src/icons-png/speaker.png -text
 src/icons-png/speed.png -text
 src/icons-png/stereo_mode.png -text
@@ -523,6 +526,9 @@ src/seekwidget.h -text
 src/seekwidget.ui -text
 src/selectcolorbutton.cpp -text
 src/selectcolorbutton.h -text
+src/sharedialog.cpp -text
+src/sharedialog.h -text
+src/sharedialog.ui -text
 src/shortcutgetter.cpp -text
 src/shortcutgetter.h -text
 src/shortcuts/default.keys -text
