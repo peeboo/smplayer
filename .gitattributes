@@ -76,7 +76,10 @@ setup/smplayer-orange-uninstaller.ico -text
 setup/smplayer-orange-wizard-un.bmp -text
 setup/smplayer-orange-wizard.bmp -text
 setup/smplayer.nsi -text
+setup/translations/albanian.nsh -text
+setup/translations/arabic.nsh -text
 setup/translations/basque.nsh -text
+setup/translations/bulgarian.nsh -text
 setup/translations/catalan.nsh -text
 setup/translations/croatian.nsh -text
 setup/translations/czech.nsh -text
@@ -91,6 +94,7 @@ setup/translations/hungarian.nsh -text
 setup/translations/italian.nsh -text
 setup/translations/japanese.nsh -text
 setup/translations/korean.nsh -text
+setup/translations/malay.nsh -text
 setup/translations/norwegian.nsh -text
 setup/translations/po_files/.tx/config -text
 setup/translations/po_files/albanian.po -text
@@ -128,6 +132,7 @@ setup/translations/polish.nsh -text
 setup/translations/portuguese.nsh -text
 setup/translations/portuguesebrazil.nsh -text
 setup/translations/russian.nsh -text
+setup/translations/serbian.nsh -text
 setup/translations/simpchinese.nsh -text
 setup/translations/slovak.nsh -text
 setup/translations/slovenian.nsh -text
