@@ -361,6 +361,7 @@ src/icons-png/screenshots.png -text
 src/icons-png/share.png -text
 src/icons-png/show_config.png -text
 src/icons-png/shuffle.png -text
+src/icons-png/shutdown.png -text
 src/icons-png/social_facebook.png -text
 src/icons-png/social_twitter.png -text
 src/icons-png/speaker.png -text
