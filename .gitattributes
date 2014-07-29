@@ -128,6 +128,7 @@ setup/translations/po_files/slovenian.po -text
 setup/translations/po_files/spanish.po -text
 setup/translations/po_files/thai.po -text
 setup/translations/po_files/tradchinese.po -text
+setup/translations/po_files/ukrainian.po -text
 setup/translations/polish.nsh -text
 setup/translations/portuguese.nsh -text
 setup/translations/portuguesebrazil.nsh -text
@@ -139,6 +140,7 @@ setup/translations/slovenian.nsh -text
 setup/translations/spanish.nsh -text
 setup/translations/thai.nsh -text
 setup/translations/tradchinese.nsh -text
+setup/translations/ukrainian.nsh -text
 /smplayer.desktop -text
 /smplayer.spec -text
 /smplayer_enqueue.desktop -text
