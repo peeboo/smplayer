@@ -466,6 +466,8 @@ src/mytablewidget.cpp -text
 src/mytablewidget.h -text
 src/old/floatingwidget.cpp -text
 src/old/floatingwidget.h -text
+src/old/images.cpp -text
+src/old/images.h -text
 src/old/videoequalizer.cpp -text
 src/old/videoequalizer.h -text
 src/paths.cpp -text
