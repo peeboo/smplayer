@@ -397,8 +397,6 @@ src/icons-png/video_size.png -text
 src/icons-png/volume.png -text
 src/icons-png/warning.png -text
 src/icons.qrc -text
-src/images.cpp -text
-src/images.h -text
 src/infofile.cpp -text
 src/infofile.h -text
 src/infoprovider.cpp -text
