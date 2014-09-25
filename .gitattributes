@@ -500,6 +500,9 @@ src/prefinput.ui -text
 src/prefinterface.cpp -text
 src/prefinterface.h -text
 src/prefinterface.ui -text
+src/prefnetwork.cpp -text
+src/prefnetwork.h -text
+src/prefnetwork.ui -text
 src/prefperformance.cpp -text
 src/prefperformance.h -text
 src/prefperformance.ui -text
