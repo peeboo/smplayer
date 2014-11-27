@@ -257,6 +257,7 @@ src/global.h -text
 src/guiconfig.h -text
 src/helper.cpp -text
 src/helper.h -text
+src/icons-png/2.xcf -text
 src/icons-png/a_marker.png -text
 src/icons-png/angle.png -text
 src/icons-png/aspect.png -text
@@ -363,6 +364,7 @@ src/icons-png/saturation.png -text
 src/icons-png/save.png -text
 src/icons-png/screenshot.png -text
 src/icons-png/screenshots.png -text
+src/icons-png/secondary_sub.png -text
 src/icons-png/share.png -text
 src/icons-png/show_config.png -text
 src/icons-png/shuffle.png -text
