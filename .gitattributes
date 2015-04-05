@@ -676,6 +676,8 @@ src/tvsettings.cpp -text
 src/tvsettings.h -text
 src/updatechecker.cpp -text
 src/updatechecker.h -text
+src/updatecheckerdata.cpp -text
+src/updatecheckerdata.h -text
 src/urlhistory.cpp -text
 src/urlhistory.h -text
 src/vdpauproperties.cpp -text
