@@ -456,6 +456,12 @@ src/mplayerversion.cpp -text
 src/mplayerversion.h -text
 src/mplayerwindow.cpp -text
 src/mplayerwindow.h -text
+src/mpris2/mediaplayer2.cpp -text
+src/mpris2/mediaplayer2.h -text
+src/mpris2/mediaplayer2player.cpp -text
+src/mpris2/mediaplayer2player.h -text
+src/mpris2/mpris2.cpp -text
+src/mpris2/mpris2.h -text
 src/mpvoptions.cpp -text
 src/mpvprocess.cpp -text
 src/mpvprocess.h -text
