@@ -610,6 +610,9 @@ src/smplayer.pro -text
 src/smplayer.rc -text
 src/smplayer_associations.ico -text
 src/smplayer_os2.rc -text
+src/stereo3ddialog.cpp -text
+src/stereo3ddialog.h -text
+src/stereo3ddialog.ui -text
 src/subtracks.cpp -text
 src/subtracks.h -text
 src/timedialog.cpp -text
