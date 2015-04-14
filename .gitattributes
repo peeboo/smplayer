@@ -573,6 +573,8 @@ src/selectcolorbutton.h -text
 src/sharedialog.cpp -text
 src/sharedialog.h -text
 src/sharedialog.ui -text
+src/sharewidget.cpp -text
+src/sharewidget.h -text
 src/shortcutgetter.cpp -text
 src/shortcutgetter.h -text
 src/shortcuts/default.keys -text
