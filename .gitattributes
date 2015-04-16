@@ -377,6 +377,7 @@ src/icons-png/speed.png -text
 src/icons-png/stereo3d.png -text
 src/icons-png/stereo_mode.png -text
 src/icons-png/stop.png -text
+src/icons-png/style.qss -text
 src/icons-png/sub.png -text
 src/icons-png/title.png -text
 src/icons-png/toolbars.png -text
