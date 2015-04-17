@@ -571,6 +571,8 @@ src/seekwidget.h -text
 src/seekwidget.ui -text
 src/selectcolorbutton.cpp -text
 src/selectcolorbutton.h -text
+src/sharedata.cpp -text
+src/sharedata.h -text
 src/sharedialog.cpp -text
 src/sharedialog.h -text
 src/sharedialog.ui -text
