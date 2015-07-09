@@ -717,12 +717,6 @@ src/widgetactions.cpp -text
 src/widgetactions.h -text
 src/winfileassoc.cpp -text
 src/winfileassoc.h -text
-src/youtube/codedownloader.cpp -text
-src/youtube/codedownloader.h -text
-src/youtube/retrieveyoutubeurl.cpp -text
-src/youtube/retrieveyoutubeurl.h -text
-src/youtube/ytsig.cpp -text
-src/youtube/ytsig.h -text
 zlib/CMakeLists.txt -text
 zlib/ChangeLog -text
 zlib/FAQ -text
