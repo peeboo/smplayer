@@ -111,6 +111,7 @@ setup/translations/po_files/dutch.po -text
 setup/translations/po_files/english.pot -text
 setup/translations/po_files/finnish.po -text
 setup/translations/po_files/french.po -text
+setup/translations/po_files/galician.po -text
 setup/translations/po_files/german.po -text
 setup/translations/po_files/hebrew.po -text
 setup/translations/po_files/hungarian.po -text
