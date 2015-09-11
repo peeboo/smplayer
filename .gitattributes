@@ -134,6 +134,7 @@ setup/translations/po_files/slovenian.po -text
 setup/translations/po_files/spanish.po -text
 setup/translations/po_files/thai.po -text
 setup/translations/po_files/tradchinese.po -text
+setup/translations/po_files/turkish.po -text
 setup/translations/po_files/ukrainian.po -text
 setup/translations/polish.nsh -text
 setup/translations/portuguese.nsh -text
