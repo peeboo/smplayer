@@ -90,6 +90,7 @@ setup/translations/dutch.nsh -text
 setup/translations/english.nsh -text
 setup/translations/finnish.nsh -text
 setup/translations/french.nsh -text
+setup/translations/galician.nsh -text
 setup/translations/german.nsh -text
 setup/translations/hebrew.nsh -text
 setup/translations/hungarian.nsh -text
