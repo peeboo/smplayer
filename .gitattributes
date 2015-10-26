@@ -277,6 +277,7 @@ src/default-theme/pref_updates.png -text
 src/default-theme/prefs.png -text
 src/default-theme/previous.png -text
 src/default-theme/qt.png -text
+src/default-theme/record.png -text
 src/default-theme/refresh.png -text
 src/default-theme/repeat.png -text
 src/default-theme/resize_window.png -text
