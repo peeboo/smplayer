@@ -425,6 +425,9 @@ src/inforeadermplayer.h -text
 src/inforeadermpv.cpp -text
 src/inforeadermpv.h -text
 src/input.conf -text
+src/inputbookmark.cpp -text
+src/inputbookmark.h -text
+src/inputbookmark.ui -text
 src/inputdvddirectory.cpp -text
 src/inputdvddirectory.h -text
 src/inputdvddirectory.ui -text
