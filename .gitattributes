@@ -185,6 +185,7 @@ src/core.cpp -text
 src/core.h -text
 src/default-theme/2.xcf -text
 src/default-theme/a_marker.png -text
+src/default-theme/add_bookmark.png -text
 src/default-theme/angle.png -text
 src/default-theme/aspect.png -text
 src/default-theme/audio_channels.png -text
@@ -198,6 +199,7 @@ src/default-theme/bluray_drive.png -text
 src/default-theme/bola.xcf -text
 src/default-theme/bookmark_add.png -text
 src/default-theme/bookmark_folder.png -text
+src/default-theme/bookmarks.png -text
 src/default-theme/brightness.png -text
 src/default-theme/cdda.png -text
 src/default-theme/cdrom_drive.png -text
