@@ -598,6 +598,7 @@ src/shortcutgetter.cpp -text
 src/shortcutgetter.h -text
 src/shortcuts/default.keys -text
 src/shortcuts/euskara.keys -text
+src/shortcuts/vlc.keys -text
 src/shutdown.cpp -text
 src/shutdown.h -text
 src/shutdowndialog.cpp -text
