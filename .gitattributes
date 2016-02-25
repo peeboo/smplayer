@@ -150,7 +150,6 @@ setup/translations/tradchinese.nsh -text
 setup/translations/turkish.nsh -text
 setup/translations/ukrainian.nsh -text
 /smplayer.desktop -text
-/smplayer.spec -text
 /smplayer_enqueue.desktop -text
 src/about.cpp -text
 src/about.h -text
