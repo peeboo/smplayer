@@ -201,6 +201,7 @@ src/default-theme/bookmark_add.png -text
 src/default-theme/bookmark_folder.png -text
 src/default-theme/bookmarks.png -text
 src/default-theme/brightness.png -text
+src/default-theme/buffering.gif -text
 src/default-theme/cdda.png -text
 src/default-theme/cdrom_drive.png -text
 src/default-theme/chapter.png -text
