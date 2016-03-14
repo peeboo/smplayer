@@ -634,6 +634,8 @@ src/smplayer.pro -text
 src/smplayer.rc -text
 src/smplayer_associations.ico -text
 src/smplayer_os2.rc -text
+src/statewidget.cpp -text
+src/statewidget.h -text
 src/stereo3ddialog.cpp -text
 src/stereo3ddialog.h -text
 src/stereo3ddialog.ui -text
