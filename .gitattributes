@@ -654,6 +654,7 @@ src/toolbareditor.ui -text
 src/tracks.cpp -text
 src/tracks.h -text
 src/translations/.tx/config -text
+src/translations/smplayer_am.ts -text
 src/translations/smplayer_ar.ts -text
 src/translations/smplayer_ar_SY.ts -text
 src/translations/smplayer_bg.ts -text
@@ -667,6 +668,7 @@ src/translations/smplayer_en_US.ts -text
 src/translations/smplayer_es.ts -text
 src/translations/smplayer_et.ts -text
 src/translations/smplayer_eu.ts -text
+src/translations/smplayer_fa.ts -text
 src/translations/smplayer_fi.ts -text
 src/translations/smplayer_fr.ts -text
 src/translations/smplayer_gl.ts -text
