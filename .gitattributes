@@ -126,6 +126,7 @@ setup/translations/po_files/norwegian.po -text
 setup/translations/po_files/polish.po -text
 setup/translations/po_files/portuguese.po -text
 setup/translations/po_files/portuguesebrazil.po -text
+setup/translations/po_files/romanian.po -text
 setup/translations/po_files/russian.po -text
 setup/translations/po_files/serbian.po -text
 setup/translations/po_files/simpchinese.po -text
@@ -140,6 +141,7 @@ setup/translations/po_files/vietnamese.po -text
 setup/translations/polish.nsh -text
 setup/translations/portuguese.nsh -text
 setup/translations/portuguesebrazil.nsh -text
+setup/translations/romanian.nsh -text
 setup/translations/russian.nsh -text
 setup/translations/serbian.nsh -text
 setup/translations/simpchinese.nsh -text
