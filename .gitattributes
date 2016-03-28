@@ -89,6 +89,7 @@ setup/translations/czech.nsh -text
 setup/translations/danish.nsh -text
 setup/translations/dutch.nsh -text
 setup/translations/english.nsh -text
+setup/translations/farsi.nsh -text
 setup/translations/finnish.nsh -text
 setup/translations/french.nsh -text
 setup/translations/galician.nsh -text
@@ -102,7 +103,6 @@ setup/translations/japanese.nsh -text
 setup/translations/korean.nsh -text
 setup/translations/malay.nsh -text
 setup/translations/norwegian.nsh -text
-setup/translations/persian.nsh -text
 setup/translations/po_files/.tx/config -text
 setup/translations/po_files/Makefile -text
 setup/translations/po_files/albanian.po -text
@@ -116,6 +116,7 @@ setup/translations/po_files/czech.po -text
 setup/translations/po_files/danish.po -text
 setup/translations/po_files/dutch.po -text
 setup/translations/po_files/english.pot -text
+setup/translations/po_files/farsi.po -text
 setup/translations/po_files/finnish.po -text
 setup/translations/po_files/french.po -text
 setup/translations/po_files/galician.po -text
@@ -129,7 +130,6 @@ setup/translations/po_files/japanese.po -text
 setup/translations/po_files/korean.po -text
 setup/translations/po_files/malay.po -text
 setup/translations/po_files/norwegian.po -text
-setup/translations/po_files/persian.po -text
 setup/translations/po_files/polish.po -text
 setup/translations/po_files/portuguese.po -text
 setup/translations/po_files/portuguesebrazil.po -text
