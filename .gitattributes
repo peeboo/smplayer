@@ -104,6 +104,7 @@ setup/translations/malay.nsh -text
 setup/translations/norwegian.nsh -text
 setup/translations/persian.nsh -text
 setup/translations/po_files/.tx/config -text
+setup/translations/po_files/Makefile -text
 setup/translations/po_files/albanian.po -text
 setup/translations/po_files/amharic.po -text
 setup/translations/po_files/arabic.po -text
