@@ -100,6 +100,7 @@ setup/translations/japanese.nsh -text
 setup/translations/korean.nsh -text
 setup/translations/malay.nsh -text
 setup/translations/norwegian.nsh -text
+setup/translations/persian.nsh -text
 setup/translations/po_files/.tx/config -text
 setup/translations/po_files/albanian.po -text
 setup/translations/po_files/arabic.po -text
@@ -123,6 +124,7 @@ setup/translations/po_files/japanese.po -text
 setup/translations/po_files/korean.po -text
 setup/translations/po_files/malay.po -text
 setup/translations/po_files/norwegian.po -text
+setup/translations/po_files/persian.po -text
 setup/translations/po_files/polish.po -text
 setup/translations/po_files/portuguese.po -text
 setup/translations/po_files/portuguesebrazil.po -text
