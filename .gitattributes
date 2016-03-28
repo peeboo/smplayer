@@ -136,6 +136,7 @@ setup/translations/po_files/thai.po -text
 setup/translations/po_files/tradchinese.po -text
 setup/translations/po_files/turkish.po -text
 setup/translations/po_files/ukrainian.po -text
+setup/translations/po_files/vietnamese.po -text
 setup/translations/polish.nsh -text
 setup/translations/portuguese.nsh -text
 setup/translations/portuguesebrazil.nsh -text
@@ -149,6 +150,7 @@ setup/translations/thai.nsh -text
 setup/translations/tradchinese.nsh -text
 setup/translations/turkish.nsh -text
 setup/translations/ukrainian.nsh -text
+setup/translations/vietnamese.nsh -text
 /smplayer.desktop -text
 /smplayer.spec -text
 /smplayer_enqueue.desktop -text
