@@ -510,6 +510,8 @@ src/mylineedit.cpp -text
 src/mylineedit.h -text
 src/myprocess.cpp -text
 src/myprocess.h -text
+src/myscroller.cpp -text
+src/myscroller.h -text
 src/myslider.cpp -text
 src/myslider.h -text
 src/mytablewidget.cpp -text
