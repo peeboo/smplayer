@@ -71,7 +71,6 @@ qt-translations/qt_ja.qm -text
 qt-translations/qt_ja.ts -text
 setup/license.txt -text
 setup/sample.avi -text
-setup/scripts/install_smplayer.cmd -text
 setup/scripts/make_pkgs.cmd -text
 setup/smplayer-orange-installer.ico -text
 setup/smplayer-orange-uninstaller.ico -text
