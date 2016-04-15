@@ -324,6 +324,7 @@ src/default-theme/stereo_mode.png -text
 src/default-theme/stop.png -text
 src/default-theme/style.qss -text
 src/default-theme/sub.png -text
+src/default-theme/tabletmode.css -text
 src/default-theme/title.png -text
 src/default-theme/toolbars.png -text
 src/default-theme/translators.png -text
