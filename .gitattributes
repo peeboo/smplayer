@@ -73,6 +73,8 @@ qt-translations/qt_eu.qm -text
 qt-translations/qt_eu.ts -text
 qt-translations/qt_ja.qm -text
 qt-translations/qt_ja.ts -text
+qt-translations/qtbase_es.qm -text
+qt-translations/qtbase_es.ts -text
 setup/license.txt -text
 setup/sample.avi -text
 setup/scripts/install_smplayer2.cmd -text
