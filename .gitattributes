@@ -214,8 +214,6 @@ src/default-theme/background.png -text
 src/default-theme/bluray.png -text
 src/default-theme/bluray_drive.png -text
 src/default-theme/bola.xcf -text
-src/default-theme/bookmark_add.png -text
-src/default-theme/bookmark_folder.png -text
 src/default-theme/bookmarks.png -text
 src/default-theme/brightness.png -text
 src/default-theme/buffering.gif -text
@@ -245,6 +243,8 @@ src/default-theme/empty_icon.png -text
 src/default-theme/equalizer.png -text
 src/default-theme/exit.png -text
 src/default-theme/faq.png -text
+src/default-theme/favorite-add.png -text
+src/default-theme/favorite-folder.png -text
 src/default-theme/favorite.png -text
 src/default-theme/find.png -text
 src/default-theme/flecha.xcf -text
