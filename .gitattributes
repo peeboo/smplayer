@@ -297,6 +297,7 @@ src/default-theme/pref_network.png -text
 src/default-theme/pref_performance.png -text
 src/default-theme/pref_playlist.png -text
 src/default-theme/pref_subtitles.png -text
+src/default-theme/pref_tv.png -text
 src/default-theme/pref_updates.png -text
 src/default-theme/prefs.png -text
 src/default-theme/previous.png -text
