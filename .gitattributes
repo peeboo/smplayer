@@ -316,6 +316,7 @@ src/default-theme/save.png -text
 src/default-theme/screenshot.png -text
 src/default-theme/screenshots.png -text
 src/default-theme/secondary_sub.png -text
+src/default-theme/send_to_screen.png -text
 src/default-theme/share.png -text
 src/default-theme/show_config.png -text
 src/default-theme/shuffle.png -text
@@ -354,6 +355,7 @@ src/default-theme/vcd.png -text
 src/default-theme/video_filters.png -text
 src/default-theme/video_preview.png -text
 src/default-theme/video_size.png -text
+src/default-theme/video_track.png -text
 src/default-theme/volume.png -text
 src/default-theme/warning.png -text
 src/defaultgui.cpp -text
