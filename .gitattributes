@@ -458,6 +458,9 @@ src/inforeadermplayer.cpp -text
 src/inforeadermplayer.h -text
 src/inforeadermpv.cpp -text
 src/inforeadermpv.h -text
+src/infowindow.cpp -text
+src/infowindow.h -text
+src/infowindow.ui -text
 src/input.conf -text
 src/inputbookmark.cpp -text
 src/inputbookmark.h -text
