@@ -484,7 +484,7 @@ src/lineedit_with_icon.h -text
 src/links.h -text
 src/logwindow.cpp -text
 src/logwindow.h -text
-src/logwindowbase.ui -text
+src/logwindow.ui -text
 src/main.cpp -text
 src/mediadata.cpp -text
 src/mediadata.h -text
