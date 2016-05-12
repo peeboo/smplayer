@@ -443,6 +443,8 @@ src/globalshortcuts/globalshortcuts.h -text
 src/globalshortcuts/globalshortcuts_linux.cpp -text
 src/globalshortcuts/globalshortcuts_win.cpp -text
 src/guiconfig.h -text
+src/hdpisupport.cpp -text
+src/hdpisupport.h -text
 src/helper.cpp -text
 src/helper.h -text
 src/icons.qrc -text
