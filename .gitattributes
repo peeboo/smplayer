@@ -243,6 +243,7 @@ src/default-theme/empty_icon.png -text
 src/default-theme/equalizer.png -text
 src/default-theme/exit.png -text
 src/default-theme/faq.png -text
+src/default-theme/fast_access_menu.png -text
 src/default-theme/favorite-add.png -text
 src/default-theme/favorite-folder.png -text
 src/default-theme/favorite.png -text
