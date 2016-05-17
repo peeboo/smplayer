@@ -243,7 +243,6 @@ src/default-theme/empty_icon.png -text
 src/default-theme/equalizer.png -text
 src/default-theme/exit.png -text
 src/default-theme/faq.png -text
-src/default-theme/fast_access_menu.png -text
 src/default-theme/favorite-add.png -text
 src/default-theme/favorite-folder.png -text
 src/default-theme/favorite.png -text
@@ -303,6 +302,7 @@ src/default-theme/pref_updates.png -text
 src/default-theme/prefs.png -text
 src/default-theme/previous.png -text
 src/default-theme/qt.png -text
+src/default-theme/quick_access_menu.png -text
 src/default-theme/recents.png -text
 src/default-theme/record.png -text
 src/default-theme/refresh.png -text
