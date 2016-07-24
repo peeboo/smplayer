@@ -284,6 +284,7 @@ src/default-theme/openfolder.png -text
 src/default-theme/osd.png -text
 src/default-theme/pause.png -text
 src/default-theme/paypal.png -text
+src/default-theme/pl_loading.gif -text
 src/default-theme/play.png -text
 src/default-theme/play_pause.png -text
 src/default-theme/playlist.png -text
