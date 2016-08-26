@@ -318,6 +318,7 @@ src/default-theme/save.png -text
 src/default-theme/screenshot.png -text
 src/default-theme/screenshots.png -text
 src/default-theme/secondary_sub.png -text
+src/default-theme/send_audio.png -text
 src/default-theme/send_to_screen.png -text
 src/default-theme/share.png -text
 src/default-theme/show_config.png -text
