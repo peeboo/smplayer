@@ -190,6 +190,8 @@ src/bookmarkdialog.h -text
 src/bookmarkdialog.ui -text
 src/chapters.cpp -text
 src/chapters.h -text
+src/chromecast.cpp -text
+src/chromecast.h -text
 src/cleanconfig.cpp -text
 src/cleanconfig.h -text
 src/clhelp.cpp -text
