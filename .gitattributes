@@ -223,6 +223,7 @@ src/default-theme/cdda.png -text
 src/default-theme/cdrom_drive.png -text
 src/default-theme/chapter.png -text
 src/default-theme/check_updates.png -text
+src/default-theme/chromecast.png -text
 src/default-theme/cl_help.png -text
 src/default-theme/clear_left.png -text
 src/default-theme/close.png -text
