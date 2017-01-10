@@ -792,6 +792,11 @@ src/youtube/sig.cpp -text
 src/youtube/sig.h -text
 src/youtube/ytsig.cpp -text
 src/youtube/ytsig.h -text
+webserver/Makefile -text
+webserver/README.txt -text
+webserver/main.c -text
+webserver/mongoose.c -text
+webserver/mongoose.h -text
 zlib/CMakeLists.txt -text
 zlib/ChangeLog -text
 zlib/FAQ -text
