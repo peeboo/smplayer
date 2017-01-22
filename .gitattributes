@@ -108,7 +108,7 @@ setup/translations/italian.nsh -text
 setup/translations/japanese.nsh -text
 setup/translations/korean.nsh -text
 setup/translations/malay.nsh -text
-setup/translations/norwegian_nynorsk.nsh -text
+setup/translations/norwegian_nn.nsh -text
 setup/translations/po_files/.tx/config -text
 setup/translations/po_files/Makefile -text
 setup/translations/po_files/albanian.po -text
@@ -135,7 +135,8 @@ setup/translations/po_files/italian.po -text
 setup/translations/po_files/japanese.po -text
 setup/translations/po_files/korean.po -text
 setup/translations/po_files/malay.po -text
-setup/translations/po_files/norwegian_nynorsk.po -text
+setup/translations/po_files/norwegian_nb.po -text
+setup/translations/po_files/norwegian_nn.po -text
 setup/translations/po_files/polish.po -text
 setup/translations/po_files/portuguese.po -text
 setup/translations/po_files/portuguesebrazil.po -text
