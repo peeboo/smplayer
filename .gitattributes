@@ -172,7 +172,6 @@ setup/translations/vietnamese.nsh -text
 /smplayer.spec -text
 /smplayer_enqueue.desktop -text
 src/H2O.qrc -text
-src/H2O/Makefile -text
 src/H2O/README.txt -text
 src/H2O/add_bookmark.png -text
 src/H2O/arrow-down.png -text
