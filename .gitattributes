@@ -791,6 +791,8 @@ src/statewidget.h -text
 src/stereo3ddialog.cpp -text
 src/stereo3ddialog.h -text
 src/stereo3ddialog.ui -text
+src/subreader.cpp -text
+src/subreader.h -text
 src/subtracks.cpp -text
 src/subtracks.h -text
 src/timedialog.cpp -text
