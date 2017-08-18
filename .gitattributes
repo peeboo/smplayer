@@ -288,6 +288,7 @@ src/assstyles.cpp -text
 src/assstyles.h -text
 src/audioequalizer.cpp -text
 src/audioequalizer.h -text
+src/audioequalizerlist.cpp -text
 src/audioequalizerlist.h -text
 src/autohidewidget.cpp -text
 src/autohidewidget.h -text
