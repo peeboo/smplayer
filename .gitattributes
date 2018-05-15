@@ -559,6 +559,9 @@ src/globalshortcuts/globalshortcuts.cpp -text
 src/globalshortcuts/globalshortcuts.h -text
 src/globalshortcuts/globalshortcuts_linux.cpp -text
 src/globalshortcuts/globalshortcuts_win.cpp -text
+src/globalshortcuts/globalshortcutsdialog.cpp -text
+src/globalshortcuts/globalshortcutsdialog.h -text
+src/globalshortcuts/globalshortcutsdialog.ui -text
 src/guiconfig.h -text
 src/hdpisupport.cpp -text
 src/hdpisupport.h -text
