@@ -62,6 +62,8 @@ icons/smplayer_icon32.png -text
 icons/smplayer_icon512.png -text
 icons/smplayer_icon64.png -text
 man/smplayer.1 -text
+old-docs/Changelog -text
+old-docs/Release_notes.txt -text
 os2/liesmich.os2 -text
 os2/lisezmoi.os2 -text
 os2/readme.os2 -text
