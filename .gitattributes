@@ -719,6 +719,13 @@ src/prefupdates.h -text
 src/prefupdates.ui -text
 src/prefwidget.cpp -text
 src/prefwidget.h -text
+src/qrcode/openwithdevicedialog.cpp -text
+src/qrcode/openwithdevicedialog.h -text
+src/qrcode/openwithdevicedialog.ui -text
+src/qrcode/qrcodegen.c -text
+src/qrcode/qrcodegen.h -text
+src/qrcode/qrcodelabel.cpp -text
+src/qrcode/qrcodelabel.h -text
 src/qtsingleapplication/QtLockedFile -text
 src/qtsingleapplication/QtSingleApplication -text
 src/qtsingleapplication/qtlocalpeer.cpp -text
