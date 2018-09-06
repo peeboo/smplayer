@@ -331,6 +331,7 @@ src/default-theme/bola.xcf -text
 src/default-theme/bookmarks.png -text
 src/default-theme/brightness.png -text
 src/default-theme/buffering.gif -text
+src/default-theme/cast.png -text
 src/default-theme/cdda.png -text
 src/default-theme/cdrom_drive.png -text
 src/default-theme/chapter.png -text
